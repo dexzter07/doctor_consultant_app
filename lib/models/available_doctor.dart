@@ -11,34 +11,34 @@ List<AvailableDoctor> availableDoctorslist = [
     sector: "Medical Specialist",
     experience: 8,
     patients: "100",
-    image: "assets/images/Serena_Gome.png"
+    image: "assets/images/image8.png"
   ),
   AvailableDoctor(
     name: "Dr. Asma Khan",
     sector: "Medicine Specialist",
     experience: 5,
     patients: '2.7K',
-    image: "assets/images/Asma_Khan.png",
+    image: "assets/images/image7.png",
   ),
   AvailableDoctor(
     name: "Dr. Kiran Shakia",
     sector: "Medicine Specialist",
     experience: 5,
     patients: '2.7K',
-    image: "assets/images/Kiran_Shakia.png",
+    image: "assets/images/image3.png",
   ),
   AvailableDoctor(
     name: "Dr. Masuda Khan",
     sector: "Medicine Specialist",
     experience: 5,
     patients: '2.7K',
-    image: "assets/images/Masuda_Khan.png",
+    image: "assets/images/image2.png",
   ),
   AvailableDoctor(
     name: "Dr. Johir Raihan",
     sector: "Medicine Specialist",
     experience: 5,
     patients: '2.7K',
-    image: "assets/images/Johir_Raihan.png",
+    image: "assets/images/image4.png",
   ),
 ];
